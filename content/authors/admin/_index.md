@@ -40,11 +40,11 @@ education:
       institution: Stanford University
       year: 2012
     - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: Shanghai Jiao Tong University
+      year: 2023
+    - course: BSc in Civil Engineering
+      institution: Sichuan University
+      year: 2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
