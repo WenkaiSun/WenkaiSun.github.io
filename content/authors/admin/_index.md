@@ -36,15 +36,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: MSc in Computer Science
+      institution: New York University
+      year: 2023 - 2025
+    - course: PhD in Civil Engineering
       institution: Shanghai Jiao Tong University
-      year: 2023
-    - course: BSc in Civil Engineering
+      year: 2022 - 2023
+    - course: BEng in Civil Engineering
       institution: Sichuan University
-      year: 2022
+      year: 2018 - 2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
