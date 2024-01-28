@@ -10,7 +10,7 @@ first_name: Wenkai
 last_name: Sun
 
 # Status emoji
-status:
+status: ☕️
   icon: ☕️
 
 # Is this the primary user of the site?
