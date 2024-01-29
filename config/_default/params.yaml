@@ -9,7 +9,9 @@ appearance:
   mode: light
   color: blue
   font_size: M
-  
+  theme_day: Earth
+  theme_night: Earth
+  font: Earth
   
 
 # SEO
