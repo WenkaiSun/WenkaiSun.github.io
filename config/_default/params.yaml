@@ -8,7 +8,6 @@
 appearance:
   mode: light
   color: blue
-  font: minimal
   font_size: M
   
 
