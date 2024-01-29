@@ -7,11 +7,11 @@
 
 appearance:
   mode: light
-  color: blue
+  color: green
   font_size: M
-  theme_day: blue
-  theme_night: blue
-  font: blue
+  theme_day: green
+  theme_night: green
+  font: green
   
 
 # SEO
