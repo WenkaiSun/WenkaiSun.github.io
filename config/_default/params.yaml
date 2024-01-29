@@ -9,9 +9,7 @@ appearance:
   mode: light
   color: blue
   font_size: M
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  
   
 
 # SEO
