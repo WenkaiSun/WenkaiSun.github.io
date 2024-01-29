@@ -7,8 +7,6 @@
 
 appearance:
   color: green
-  theme_day: minimal
-  theme_night: minimal
   font: minimal
   font_size: M
   mode: light
